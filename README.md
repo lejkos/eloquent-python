@@ -43,7 +43,12 @@ init, method,
 add, protocols, typing, 
 
 
+Where to put yield and coroutines?
+Async & wait?
 
+Project II - Async & await
 
 ....
+
+Project IV
 11. Inheritance and Mixins
