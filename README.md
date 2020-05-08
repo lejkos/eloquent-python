@@ -21,7 +21,7 @@ Each chapter should base on a story & philosophical concept.
 4. Tuples, Lists & Dictionaries
    List methods, dictionary methods, comprehensions,
 
-5. 
+5. Modules
 
 5. Standard library & dataclasses
 
@@ -34,4 +34,16 @@ Ideas: CLI programm to access Reddit headlines
 What is a CLI, how to use a debugger, what is an API
 What is HTTP? (carrier pidgins with pen pal in London)
 
-8. 
+8. Exceptions
+
+9. Files
+
+10. Classes and magic methods
+init, method,
+add, protocols, typing, 
+
+
+
+
+....
+11. Inheritance and Mixins
