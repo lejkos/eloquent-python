@@ -73,3 +73,9 @@ Project IV
 
 12. Advanced functions
 Recursion, decorators, 
+
+
+Project - Flask
+
+Project - Scikit Learn
+
