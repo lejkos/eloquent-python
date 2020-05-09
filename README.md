@@ -4,6 +4,8 @@
 
 Each chapter should base on a story & philosophical concept.
 
+jupyter notebook
+
 
 1. Introduction
 
@@ -25,9 +27,11 @@ Each chapter should base on a story & philosophical concept.
 
 5. Standard library & dataclasses
 
-6. PYPI: requests
+6. PYPI: requests & poetry
 
 7. Project I
+
+virtualenv
 
 Ideas: CLI programm to access Reddit headlines
 
@@ -45,6 +49,16 @@ Unittest, pytest, mock
 init, method,
 add, protocols, typing, 
 
+11. More collections
+   enum, dataclass, Counter, OrderedDict, defaultdict
+   deque,
+   
+   
+11. typing module & mypy
+
+
+
+11. Style & PEP8
 
 Where to put yield and coroutines?
 yield, yield from
