@@ -56,8 +56,6 @@ add, protocols, typing,
    
 11. typing module & mypy
 
-
-
 11. Style & PEP8
 
 Where to put yield and coroutines?
@@ -86,7 +84,7 @@ Project IV
 11. Inheritance and Mixins
 
 12. Advanced functions
-Recursion, decorators, 
+Recursion, decorators, functools, partial
 
 
 Project - Flask
