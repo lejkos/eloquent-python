@@ -34,6 +34,9 @@ Ideas: CLI programm to access Reddit headlines
 What is a CLI, how to use a debugger, what is an API
 What is HTTP? (carrier pidgins with pen pal in London)
 
+7. Testing
+Unittest, pytest, mock
+
 8. Exceptions
 
 9. Files
