@@ -46,8 +46,9 @@ Unittest, pytest, mock
 9. Files
 
 10. Classes and magic methods
-init, method,
+init, method, self,
 add, protocols, typing, 
+What are good examples of `self`? Actually it is just a convention to use `self` - as you might use any other word there. 
 
 11. More collections
    enum, dataclass, Counter, OrderedDict, defaultdict
